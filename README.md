@@ -14,3 +14,9 @@ Este es un programa sencillo en C++ que desarrollé para simular el proceso de c
 * **Uso de variables:** Declaración e inicialización de variables enteras para manejar precios, cantidades y resultados.
 * **Entrada y salida de datos:** Uso de cin y cout para interactuar con el usuario de forma clara en la consola.
 * **Operaciones aritméticas:** Aplicación de lógica matemática dentro del código para procesar multiplicaciones, sumas y sacar porcentajes.
+
+## Cómo ejecutar este programa
+
+* Asegúrate de tener instalado un compilador de C++ como **Dev-C++**.
+* Abre el archivo `generador_facturas.cpp` en tu editor.
+* Compila y ejecuta el código.
